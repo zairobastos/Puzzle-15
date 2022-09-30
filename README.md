@@ -16,3 +16,12 @@ Para resolver o problema, utilizamos as seguintes estruturas de dados:
 - Busca em profundidade
 - A*
 - Busca Gulosa
+
+#### Execução do programa
+- A*
+
+![Imagem](images/astar.gif)
+
+- Busca em Largura (BFS)
+
+![gif](images/helpBfs.gif)
